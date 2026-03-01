@@ -1,919 +1,3 @@
-[Sun Mar  1 20:14:36 2026] ACCESS: www.youtube.com | STATUS: 204
-[SALT_23119]
-[20:20:56] CONN [www.youtube.com]
-[20:20:59] CONN [www.youtube.com]
-[20:22:04] CONN [beacons.gcp.gvt2.com]
-[20:22:04] CONN [beacons.gcp.gvt2.com]
-[20:22:05] CONN [functional.events.data.microsoft.com]
-[20:22:06] CONN [www.youtube.com]
-[20:22:09] CONN [www.youtube.com]
-[20:22:33] CONN [www.youtube.com]
-[20:22:37] CONN [www.youtube.com]
-[20:22:38] KILL [www.google-analytics.com]
-[20:22:39] CONN [www.youtube.com]
-[20:22:39] KILL [ade.googlesyndication.com]
-[20:22:39] CONN [www.youtube.com]
-[20:22:40] CONN [www.youtube.com]
-[20:22:40] CONN [www.youtube.com]
-[20:22:40] CONN [www.youtube.com]
-[20:22:40] CONN [www.youtube.com]
-[20:22:40] CONN [www.youtube.com]
-[20:22:40] CONN [www.youtube.com]
-[20:22:40] CONN [www.youtube.com]
-[20:22:40] CONN [www.youtube.com]
-[20:22:40] CONN [www.youtube.com]
-[20:22:40] CONN [i.ytimg.com]
-[20:22:40] KILL [ade.googlesyndication.com]
-[20:22:40] CONN [www.youtube.com]
-[20:22:40] CONN [www.youtube.com]
-[20:22:42] CONN [suggestqueries-clients6.youtube.com]
-[20:22:42] CONN [suggestqueries-clients6.youtube.com]
-[20:22:44] CONN [www.youtube.com]
-[20:22:44] CONN [www.youtube.com]
-[20:22:44] CONN [rr4---sn-aigl6nsk.googlevideo.com]
-[20:22:44] CONN [www.youtube.com]
-[20:22:44] CONN [www.youtube.com]
-[20:22:44] CONN [lh5.googleusercontent.com]
-[20:22:44] KILL [ad.doubleclick.net]
-[20:22:45] CONN [www.youtube.com]
-[20:22:45] CONN [www.youtube.com]
-[20:22:45] CONN [rr4---sn-aigl6nsk.googlevideo.com]
-[20:22:45] CONN [www.youtube.com]
-[20:22:45] CONN [www.youtube.com]
-[20:22:45] CONN [www.youtube.com]
-[20:22:45] CONN [www.youtube.com]
-[20:22:45] CONN [www.youtube.com]
-[20:22:45] CONN [www.youtube.com]
-[20:22:45] CONN [www.youtube.com]
-[20:22:45] CONN [rr2---sn-aigzrn7d.googlevideo.com]
-[20:22:45] CONN [www.youtube.com]
-[20:22:45] CONN [www.youtube.com]
-[20:22:45] CONN [rr2---sn-aigzrn7d.googlevideo.com]
-[20:22:45] CONN [www.youtube.com]
-[20:22:45] CONN [www.youtube.com]
-[20:22:45] CONN [www.youtube.com]
-[20:22:46] CONN [www.youtube.com]
-[20:22:46] CONN [www.youtube.com]
-[20:22:46] CONN [www.youtube.com]
-[20:22:47] CONN [i.ytimg.com]
-[20:22:47] CONN [www.youtube.com]
-[20:22:47] CONN [www.youtube.com]
-[20:22:47] CONN [i.ytimg.com]
-[20:22:47] CONN [www.youtube.com]
-[20:22:47] CONN [rr1---sn-aigl6nze.googlevideo.com]
-[20:22:47] CONN [www.youtube.com]
-[20:22:47] CONN [rr1---sn-aigl6nze.googlevideo.com]
-[20:22:47] CONN [www.youtube.com]
-[20:22:47] CONN [www.youtube.com]
-[20:22:47] CONN [www.youtube.com]
-[20:22:47] CONN [www.youtube.com]
-[20:22:47] CONN [www.youtube.com]
-[20:22:47] CONN [www.youtube.com]
-[20:22:47] CONN [rr1---sn-aigl6nze.googlevideo.com]
-[20:22:47] CONN [rr5---sn-aigzrn76.googlevideo.com]
-[20:22:47] CONN [www.youtube.com]
-[20:22:48] CONN [rr1---sn-aigl6nze.googlevideo.com]
-[20:22:48] CONN [www.youtube.com]
-[20:22:48] CONN [www.youtube.com]
-[20:22:48] CONN [www.youtube.com]
-[20:22:48] CONN [www.youtube.com]
-[20:22:48] CONN [www.youtube.com]
-[20:22:49] CONN [rr5---sn-aigzrn76.googlevideo.com]
-[20:22:49] CONN [rr1---sn-aigl6nze.googlevideo.com]
-[20:22:49] CONN [i.ytimg.com]
-[20:22:49] CONN [www.youtube.com]
-[20:22:49] CONN [rr1---sn-aigl6nze.googlevideo.com]
-[20:22:49] CONN [i.ytimg.com]
-[20:22:49] CONN [www.youtube.com]
-[20:22:49] CONN [www.youtube.com]
-[20:22:49] CONN [www.youtube.com]
-[20:22:49] CONN [yt3.ggpht.com]
-[20:22:49] CONN [i.ytimg.com]
-[20:22:49] CONN [i.ytimg.com]
-[20:22:49] CONN [i.ytimg.com]
-[20:22:49] CONN [lh4.googleusercontent.com]
-[20:22:49] CONN [i.ytimg.com]
-[20:22:49] CONN [i.ytimg.com]
-[20:22:49] CONN [www.youtube.com]
-[20:22:50] CONN [www.youtube.com]
-[20:22:50] CONN [www.youtube.com]
-[20:22:51] CONN [i.ytimg.com]
-[20:22:51] CONN [i.ytimg.com]
-[20:22:51] CONN [i.ytimg.com]
-[20:22:51] CONN [i.ytimg.com]
-[20:22:51] CONN [i.ytimg.com]
-[20:22:51] CONN [i.ytimg.com]
-[20:22:51] CONN [i.ytimg.com]
-[20:22:51] CONN [rr1---sn-aigl6nze.googlevideo.com]
-[20:22:51] CONN [rr1---sn-aigl6nze.googlevideo.com]
-[20:22:52] CONN [www.youtube.com]
-[20:22:52] CONN [i.ytimg.com]
-[20:22:54] CONN [i.ytimg.com]
-[20:22:54] CONN [i.ytimg.com]
-[20:22:54] CONN [www.youtube.com]
-[20:22:54] CONN [www.youtube.com]
-[20:22:54] CONN [www.youtube.com]
-[20:22:54] CONN [rr1---sn-aigzrnld.googlevideo.com]
-[20:22:55] CONN [rr1---sn-aigzrnld.googlevideo.com]
-[20:22:55] CONN [www.youtube.com]
-[20:22:55] CONN [i.ytimg.com]
-[20:22:55] CONN [yt3.ggpht.com]
-[20:22:55] CONN [rr5---sn-aigl6n6s.googlevideo.com]
-[20:22:55] KILL [tpc.googlesyndication.com]
-[20:22:55] CONN [rr3---sn-2oaig5-55.googlevideo.com]
-[20:22:55] CONN [www.youtube.com]
-[20:22:55] CONN [rr3---sn-2oaig5-55.googlevideo.com]
-[20:22:55] KILL [ad.doubleclick.net]
-[20:22:55] CONN [www.youtube.com]
-[20:22:55] CONN [www.youtube.com]
-[20:22:55] CONN [yt3.ggpht.com]
-[20:22:55] KILL [ade.googlesyndication.com]
-[20:22:55] CONN [i.ytimg.com]
-[20:22:55] CONN [www.youtube.com]
-[20:22:55] KILL [pagead2.googlesyndication.com]
-[20:22:55] CONN [www.youtube.com]
-[20:22:55] CONN [www.youtube.com]
-[20:22:55] CONN [www.youtube.com]
-[20:22:55] KILL [ad.doubleclick.net]
-[20:22:55] CONN [yt3.ggpht.com]
-[20:22:55] CONN [www.youtube.com]
-[20:22:55] CONN [lh6.googleusercontent.com]
-[20:22:55] CONN [i.ytimg.com]
-[20:22:55] CONN [i.ytimg.com]
-[20:22:55] CONN [i.ytimg.com]
-[20:22:56] CONN [www.youtube.com]
-[20:22:56] CONN [fonts.gstatic.com]
-[20:22:56] CONN [www.youtube.com]
-[20:22:56] CONN [www.youtube.com]
-[20:22:57] CONN [www.youtube.com]
-[20:22:57] KILL [pagead2.googlesyndication.com]
-[20:23:00] KILL [ade.googlesyndication.com]
-[20:23:00] CONN [i.ytimg.com]
-[20:23:00] CONN [rr3---sn-2oaig5-55.googlevideo.com]
-[20:23:01] CONN [www.youtube.com]
-[20:23:01] CONN [www.youtube.com]
-[20:23:01] CONN [www.youtube.com]
-[20:23:01] CONN [www.youtube.com]
-[20:23:01] CONN [www.youtube.com]
-[20:23:01] CONN [www.youtube.com]
-[20:23:01] CONN [www.youtube.com]
-[20:23:01] KILL [ade.googlesyndication.com]
-[20:23:01] CONN [i.ytimg.com]
-[20:23:01] CONN [i.ytimg.com]
-[20:23:01] CONN [i.ytimg.com]
-[20:23:01] CONN [rr4---sn-aigzrnze.googlevideo.com]
-[20:23:02] CONN [rr4---sn-aigzrnze.googlevideo.com]
-[20:23:02] CONN [rr4---sn-aigzrnze.googlevideo.com]
-[20:23:02] CONN [www.youtube.com]
-[20:23:02] CONN [yt3.ggpht.com]
-[20:23:02] CONN [i.ytimg.com]
-[20:23:02] CONN [i.ytimg.com]
-[20:23:02] CONN [rr4---sn-aigzrnze.googlevideo.com]
-[20:23:02] CONN [www.youtube.com]
-[20:23:02] CONN [www.youtube.com]
-[20:23:02] CONN [i9.ytimg.com]
-[20:23:02] CONN [rr4---sn-aigzrnze.googlevideo.com]
-[20:23:02] CONN [www.youtube.com]
-[20:23:02] CONN [www.youtube.com]
-[20:23:02] CONN [www.youtube.com]
-[20:23:02] KILL [ad.doubleclick.net]
-[20:23:02] CONN [lh6.googleusercontent.com]
-[20:23:02] CONN [yt3.ggpht.com]
-[20:23:02] CONN [i.ytimg.com]
-[20:23:02] CONN [www.gstatic.com]
-[20:23:02] CONN [i.ytimg.com]
-[20:23:02] CONN [i.ytimg.com]
-[20:23:02] CONN [i.ytimg.com]
-[20:23:02] CONN [i.ytimg.com]
-[20:23:02] CONN [www.youtube.com]
-[20:23:03] CONN [www.youtube.com]
-[20:23:03] CONN [www.youtube.com]
-[20:23:07] CONN [chatgpt.com]
-[20:23:08] CONN [beacons.gcp.gvt2.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [content-autofill.googleapis.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [accounts.google.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:08] CONN [chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:08] CONN [ab.chatgpt.com]
-[20:23:09] CONN [ab.chatgpt.com]
-[20:23:09] CONN [ab.chatgpt.com]
-[20:23:09] CONN [ab.chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [ab.chatgpt.com]
-[20:23:09] CONN [ab.chatgpt.com]
-[20:23:09] CONN [ab.chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [ab.chatgpt.com]
-[20:23:09] CONN [accounts.google.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [accounts.google.com]
-[20:23:09] CONN [google.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [www.youtube.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [www.google.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [accounts.google.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [ab.chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [ab.chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [ab.chatgpt.com]
-[20:23:09] CONN [ab.chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:09] CONN [chatgpt.com]
-[20:23:10] CONN [chatgpt.com]
-[20:23:10] CONN [chatgpt.com]
-[20:23:10] CONN [chatgpt.com]
-[20:23:12] CONN [www.youtube.com]
-[20:23:12] CONN [ab.chatgpt.com]
-[20:23:12] CONN [activity.windows.com]
-[20:23:12] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [ab.chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:13] CONN [chatgpt.com]
-[20:23:14] CONN [chatgpt.com]
-[20:23:18] CONN [chatgpt.com]
-[20:23:19] CONN [www.youtube.com]
-[20:23:23] CONN [chatgpt.com]
-[20:23:24] CONN [ab.chatgpt.com]
-[20:23:28] CONN [chatgpt.com]
-[20:23:29] CONN [ab.chatgpt.com]
-[20:23:29] CONN [chatgpt.com]
-[20:23:30] CONN [chatgpt.com]
-[20:23:30] CONN [chatgpt.com]
-[20:23:30] CONN [chatgpt.com]
-[20:23:30] CONN [ab.chatgpt.com]
-[20:23:30] CONN [chatgpt.com]
-[20:23:30] CONN [ab.chatgpt.com]
-[20:23:30] CONN [chatgpt.com]
-[20:23:30] CONN [chatgpt.com]
-[20:23:38] CONN [ab.chatgpt.com]
-[20:23:38] CONN [chatgpt.com]
-[20:23:38] CONN [chatgpt.com]
-[20:23:39] CONN [beacons.gcp.gvt2.com]
-[20:23:39] CONN [chatgpt.com]
-[20:23:45] CONN [beacons.gcp.gvt2.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [ab.chatgpt.com]
-[20:23:45] CONN [ab.chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [ab.chatgpt.com]
-[20:23:45] CONN [ab.chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [chatgpt.com]
-[20:23:45] CONN [ab.chatgpt.com]
-[20:23:47] CONN [chatgpt.com]
-[20:23:49] CONN [chatgpt.com]
-[20:23:49] CONN [chatgpt.com]
-[20:23:51] CONN [chatgpt.com]
-[20:23:58] CONN [ab.chatgpt.com]
-[20:23:58] CONN [beacons.gcp.gvt2.com]
-[20:23:58] CONN [beacons.gcp.gvt2.com]
-[20:23:59] CONN [chatgpt.com]
-[20:24:09] CONN [chatgpt.com]
-[20:24:09] CONN [beacons.gcp.gvt2.com]
-[20:24:15] CONN [chatgpt.com]
-[20:24:15] CONN [chatgpt.com]
-[20:24:15] CONN [chatgpt.com]
-[20:24:42] CONN [beacons.gcp.gvt2.com]
-[20:24:42] CONN [accounts.google.com]
-[20:24:42] CONN [google.com]
-[20:24:47] CONN [chatgpt.com]
-[20:24:47] CONN [chatgpt.com]
-[20:24:47] CONN [beacons.gcp.gvt2.com]
-[20:24:52] CONN [chatgpt.com]
-[20:24:57] CONN [chatgpt.com]
-[20:24:58] CONN [chatgpt.com]
-[20:24:58] CONN [chatgpt.com]
-[20:24:58] CONN [chatgpt.com]
-[20:24:58] CONN [ab.chatgpt.com]
-[20:24:59] CONN [chatgpt.com]
-[20:24:59] CONN [chatgpt.com]
-[20:25:08] CONN [ab.chatgpt.com]
-[20:25:09] CONN [chatgpt.com]
-[20:25:14] CONN [chatgpt.com]
-[20:25:14] CONN [chatgpt.com]
-[20:25:14] CONN [chatgpt.com]
-[20:25:14] CONN [chatgpt.com]
-[20:25:14] CONN [chatgpt.com]
-[20:25:14] CONN [chatgpt.com]
-[20:25:14] CONN [chatgpt.com]
-[20:25:14] CONN [chatgpt.com]
-[20:25:14] CONN [chatgpt.com]
-[20:25:16] CONN [chatgpt.com]
-[20:25:18] CONN [ab.chatgpt.com]
-[20:25:20] CONN [chatgpt.com]
-[20:25:28] CONN [chatgpt.com]
-[20:25:28] CONN [chatgpt.com]
-[20:25:39] CONN [chatgpt.com]
-[20:25:44] CONN [chatgpt.com]
-[20:25:44] CONN [chatgpt.com]
-[20:25:46] CONN [chatgpt.com]
-[20:25:51] CONN [chatgpt.com]
-[20:25:56] CONN [chatgpt.com]
-[20:26:02] CONN [chatgpt.com]
-[20:26:03] CONN [chatgpt.com]
-[20:26:03] CONN [chatgpt.com]
-[20:26:03] CONN [chatgpt.com]
-[20:26:03] CONN [ab.chatgpt.com]
-[20:26:03] CONN [chatgpt.com]
-[20:26:04] CONN [chatgpt.com]
-[20:26:08] CONN [ab.chatgpt.com]
-[20:26:09] CONN [chatgpt.com]
-[20:26:16] CONN [chatgpt.com]
-[20:26:22] CONN [chatgpt.com]
-[20:26:22] CONN [chatgpt.com]
-[20:26:22] CONN [chatgpt.com]
-[20:26:22] CONN [chatgpt.com]
-[20:26:22] CONN [ab.chatgpt.com]
-[20:26:22] CONN [chatgpt.com]
-[20:26:22] CONN [chatgpt.com]
-[20:26:22] CONN [chatgpt.com]
-[20:26:22] CONN [chatgpt.com]
-[20:26:22] CONN [chatgpt.com]
-[20:26:22] CONN [chatgpt.com]
-[20:26:24] CONN [chatgpt.com]
-[20:26:28] CONN [chatgpt.com]
-[20:26:28] CONN [ab.chatgpt.com]
-[20:26:33] CONN [chatgpt.com]
-[20:26:36] CONN [chatgpt.com]
-[20:26:39] CONN [chatgpt.com]
-[20:26:52] CONN [chatgpt.com]
-[20:26:52] CONN [chatgpt.com]
-[20:27:08] CONN [array816.prod.do.dsp.mp.microsoft.com]
-[20:27:08] CONN [disc801.prod.do.dsp.mp.microsoft.com]
-[20:27:14] CONN [chatgpt.com]
-[20:27:19] CONN [chatgpt.com]
-[20:27:24] CONN [chatgpt.com]
-[20:27:27] CONN [chatgpt.com]
-[20:27:27] CONN [chatgpt.com]
-[20:27:27] CONN [chatgpt.com]
-[20:27:27] CONN [chatgpt.com]
-[20:27:27] CONN [chatgpt.com]
-[20:27:29] CONN [ab.chatgpt.com]
-[20:27:37] CONN [www.google.com]
-[20:27:37] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] KILL [www.googleadservices.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [ogads-pa.clients6.google.com]
-[20:27:38] CONN [ogads-pa.clients6.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [encrypted-tbn0.gstatic.com]
-[20:27:38] CONN [encrypted-tbn0.gstatic.com]
-[20:27:38] CONN [encrypted-tbn0.gstatic.com]
-[20:27:38] CONN [encrypted-tbn0.gstatic.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:38] CONN [www.google.com]
-[20:27:39] CONN [www.google.com]
-[20:27:39] CONN [play.google.com]
-[20:27:40] CONN [chatgpt.com]
-[20:27:46] CONN [www.google.com]
-[20:27:46] CONN [www.google.com]
-[20:27:46] CONN [www.google.com]
-[20:27:46] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [www.google.com]
-[20:27:47] CONN [www.google.com]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [login.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [content-autofill.googleapis.com]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:47] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:48] CONN [forum.vivaldi.net]
-[20:27:49] CONN [login.vivaldi.net]
-[20:27:57] CONN [chatgpt.com]
-[20:28:10] CONN [chatgpt.com]
-[20:28:11] CONN [www.youtube.com]
-[20:28:12] CONN [activity.windows.com]
-[20:28:15] CONN [chatgpt.com]
-[20:28:20] CONN [chatgpt.com]
-[20:28:22] CONN [chatgpt.com]
-[20:28:22] CONN [chatgpt.com]
-[20:28:22] CONN [chatgpt.com]
-[20:28:22] CONN [ab.chatgpt.com]
-[20:28:22] CONN [chatgpt.com]
-[20:28:22] CONN [chatgpt.com]
-[20:28:28] CONN [chatgpt.com]
-[20:28:28] CONN [ab.chatgpt.com]
-[20:28:40] CONN [chatgpt.com]
-[20:28:40] CONN [beacons.gcp.gvt2.com]
-[20:28:40] CONN [chatgpt.com]
-[20:28:40] CONN [chatgpt.com]
-[20:28:40] CONN [chatgpt.com]
-[20:28:40] CONN [chatgpt.com]
-[20:28:40] CONN [chatgpt.com]
-[20:28:40] CONN [chatgpt.com]
-[20:28:40] CONN [chatgpt.com]
-[20:28:40] CONN [chatgpt.com]
-[20:28:42] CONN [chatgpt.com]
-[20:28:46] CONN [chatgpt.com]
-[20:28:48] CONN [ab.chatgpt.com]
-[20:28:52] CONN [chatgpt.com]
-[20:28:54] CONN [chatgpt.com]
-[20:29:10] CONN [chatgpt.com]
-[20:29:10] CONN [chatgpt.com]
-[20:29:10] CONN [chatgpt.com]
-[20:29:32] CONN [clients4.google.com]
-[20:29:33] CONN [chatgpt.com]
-[20:29:35] CONN [chatgpt.com]
-[20:29:38] CONN [chatgpt.com]
-[20:29:41] CONN [chatgpt.com]
-[20:29:41] CONN [beacons.gcp.gvt2.com]
-[20:29:42] CONN [beacons.gcp.gvt2.com]
-[20:29:42] CONN [google.com]
-[20:29:42] CONN [accounts.google.com]
-[20:29:43] CONN [chatgpt.com]
-[20:29:48] CONN [chatgpt.com]
-[20:29:48] CONN [chatgpt.com]
-[20:29:49] CONN [chatgpt.com]
-[20:29:50] CONN [chatgpt.com]
-[20:29:50] CONN [chatgpt.com]
-[20:29:50] CONN [ab.chatgpt.com]
-[20:29:50] CONN [ab.chatgpt.com]
-[20:29:50] CONN [chatgpt.com]
-[20:29:50] CONN [chatgpt.com]
-[20:29:50] CONN [chatgpt.com]
-[20:29:52] CONN [chatgpt.com]
-[20:29:55] CONN [ab.chatgpt.com]
-[20:29:55] CONN [chatgpt.com]
-[20:29:56] CONN [chatgpt.com]
-[20:29:56] CONN [chatgpt.com]
-[20:29:56] CONN [chatgpt.com]
-[20:29:56] CONN [chatgpt.com]
-[20:29:56] CONN [chatgpt.com]
-[20:29:56] CONN [chatgpt.com]
-[20:29:56] CONN [chatgpt.com]
-[20:29:57] CONN [chatgpt.com]
-[20:29:58] CONN [ab.chatgpt.com]
-[20:30:01] CONN [chatgpt.com]
-[20:30:05] CONN [chatgpt.com]
 [20:30:09] CONN [chatgpt.com]
 [20:30:11] CONN [chatgpt.com]
 [20:30:16] CONN [chatgpt.com]
@@ -989,3 +73,928 @@
 [20:40:38] CONN [ab.chatgpt.com]
 [20:40:39] CONN [chatgpt.com]
 [20:40:39] CONN [chatgpt.com]
+[20:40:44] CONN [ab.chatgpt.com]
+[20:40:47] CONN [clients4.google.com]
+[20:40:57] CONN [chatgpt.com]
+[20:40:57] CONN [chatgpt.com]
+[20:40:57] CONN [chatgpt.com]
+[20:40:57] CONN [chatgpt.com]
+[20:40:57] CONN [adblock-tester.com]
+[20:40:57] CONN [adblock-tester.com]
+[20:40:57] CONN [adblock-tester.com]
+[20:40:57] CONN [adblock-tester.com]
+[20:40:57] CONN [adblock-tester.com]
+[20:40:57] CONN [adblock-tester.com]
+[20:40:57] KILL [o336400.ingest.us.sentry.io]
+[20:40:57] CONN [chatgpt.com]
+[20:40:57] KILL [region1.google-analytics.com]
+[20:40:57] CONN [chatgpt.com]
+[20:40:57] CONN [chatgpt.com]
+[20:40:57] CONN [chatgpt.com]
+[20:40:57] CONN [chatgpt.com]
+[20:40:57] KILL [browser.sentry-cdn.com]
+[20:40:57] CONN [adblock-tester.com]
+[20:40:57] CONN [adblock-tester.com]
+[20:40:57] CONN [adblock-tester.com]
+[20:40:57] KILL [js.sentry-cdn.com]
+[20:40:57] CONN [d2wy8f7a9ursnm.cloudfront.net]
+[20:40:57] KILL [pagead2.googlesyndication.com]
+[20:40:57] CONN [www.googletagmanager.com]
+[20:40:58] CONN [static.hotjar.com]
+[20:40:58] KILL [js.sentry-cdn.com]
+[20:40:58] CONN [ymatuhin.ru]
+[20:40:58] KILL [sessions.bugsnag.com]
+[20:40:58] KILL [an.yandex.ru]
+[20:40:58] CONN [adblock-tester.com]
+[20:40:58] KILL [js.sentry-cdn.com]
+[20:40:58] KILL [mc.yandex.ru]
+[20:40:58] KILL [pagead2.googlesyndication.com]
+[20:40:58] KILL [pagead2.googlesyndication.com]
+[20:40:58] CONN [script.hotjar.com]
+[20:40:58] KILL [js.sentry-cdn.com]
+[20:40:58] CONN [adblock-tester.com]
+[20:40:58] KILL [an.yandex.ru]
+[20:40:58] KILL [mc.yandex.ru]
+[20:40:59] CONN [ab.chatgpt.com]
+[20:41:00] CONN [chatgpt.com]
+[20:41:03] CONN [chatgpt.com]
+[20:41:03] KILL [region1.google-analytics.com]
+[20:41:04] CONN [chatgpt.com]
+[20:41:04] CONN [ab.chatgpt.com]
+[20:41:06] CONN [chatgpt.com]
+[20:41:08] CONN [ab.chatgpt.com]
+[20:41:12] CONN [chatgpt.com]
+[20:41:12] CONN [chatgpt.com]
+[20:41:15] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] SURGERY [FT.com] -> Paywall DOM Nuked
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] CONN [static.chartbeat.com]
+[20:41:16] CONN [static.chartbeat.com]
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] KILL [securepubads.g.doubleclick.net]
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] CONN [mab.chartbeat.com]
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] CONN [www.googletagmanager.com]
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:16] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] CONN [ping.chartbeat.net]
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] CONN [cdn.adsafeprotected.com]
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] SURGERY [FT.com] -> Paywall DOM Nuked
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] SURGERY [FT.com] -> Paywall DOM Nuked
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] CONN [ping.chartbeat.net]
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:17] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] SURGERY [FT.com] -> Paywall DOM Nuked
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] CONN [ft.illuma-tech.com]
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] CONN [ping.chartbeat.net]
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] CONN [platform.twitter.com]
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] CONN [public.flourish.studio]
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] CONN [ft.illuma-tech.com]
+[20:41:18] CONN [platform.twitter.com]
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] KILL [securepubads.g.doubleclick.net]
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] CONN [flo.uri.sh]
+[20:41:18] CONN [flo.uri.sh]
+[20:41:18] CONN [flo.uri.sh]
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] CONN [flo.uri.sh]
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:18] CONN [syndication.twitter.com]
+[20:41:19] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:19] CONN [flo.uri.sh]
+[20:41:19] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:19] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:19] CONN [flo.uri.sh]
+[20:41:19] CONN [public.flourish.studio]
+[20:41:19] CONN [unpkg.com]
+[20:41:19] CONN [unpkg.com]
+[20:41:20] CONN [flo.uri.sh]
+[20:41:20] CONN [flo.uri.sh]
+[20:41:20] CONN [public.flourish.studio]
+[20:41:20] CONN [public.flourish.studio]
+[20:41:20] CONN [public.flourish.studio]
+[20:41:20] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:20] CONN [public.flourish.studio]
+[20:41:20] CONN [public.flourish.studio]
+[20:41:20] CONN [cdn.brandmetrics.com]
+[20:41:20] CONN [public.flourish.studio]
+[20:41:20] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:20] CONN [ft-ig-images-prod.s3.eu-west-1.amazonaws.com]
+[20:41:20] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:20] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:21] CONN [public.flourish.studio]
+[20:41:21] CONN [public.flourish.studio]
+[20:41:22] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:22] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:22] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:22] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:22] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:22] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:22] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:22] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:22] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:23] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:23] CONN [ping.chartbeat.net]
+[20:41:23] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:23] SURGERY [FT.com] -> Paywall DOM Nuked
+[20:41:23] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:23] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:23] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:23] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:23] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:23] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:23] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:23] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:23] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:23] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] CONN [ping.chartbeat.net]
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] KILL [securepubads.g.doubleclick.net]
+[20:41:24] CONN [ft.illuma-tech.com]
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] SURGERY [FT.com] -> Paywall DOM Nuked
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] SURGERY [FT.com] -> Paywall DOM Nuked
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] SURGERY [FT.com] -> Paywall DOM Nuked
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] CONN [content-autofill.googleapis.com]
+[20:41:24] CONN [cdn.brandmetrics.com]
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:24] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:25] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:25] CONN [collector.brandmetrics.com]
+[20:41:25] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:26] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:27] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:27] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:28] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:29] CONN [chatgpt.com]
+[20:41:29] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:29] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:35] BREAK [FT.com] -> Spoofed Googlebot
+[20:41:35] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] KILL [www.googleadservices.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] KILL [www.googleadservices.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.googletagmanager.com]
+[20:41:36] CONN [www.googletagmanager.com]
+[20:41:36] CONN [ogads-pa.clients6.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [encrypted-tbn0.gstatic.com]
+[20:41:36] CONN [encrypted-tbn0.gstatic.com]
+[20:41:36] CONN [encrypted-tbn0.gstatic.com]
+[20:41:36] CONN [encrypted-tbn0.gstatic.com]
+[20:41:36] CONN [encrypted-tbn0.gstatic.com]
+[20:41:36] CONN [encrypted-tbn0.gstatic.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [encrypted-tbn0.gstatic.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [encrypted-tbn0.gstatic.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [encrypted-tbn0.gstatic.com]
+[20:41:36] CONN [encrypted-tbn0.gstatic.com]
+[20:41:36] CONN [encrypted-tbn0.gstatic.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:36] CONN [www.google.com]
+[20:41:37] CONN [www.google.com]
+[20:41:37] CONN [www.google.com]
+[20:41:37] CONN [www.google.com]
+[20:41:37] CONN [www.google.com]
+[20:41:37] CONN [www.google.com]
+[20:41:37] CONN [play.google.com]
+[20:41:37] CONN [www.google.com]
+[20:41:37] CONN [www.google.com]
+[20:41:37] CONN [www.google.com]
+[20:41:37] CONN [www.bloomberg.com]
+[20:41:37] CONN [www.bloomberg.com]
+[20:41:37] CONN [www.google.com]
+[20:41:37] CONN [fonts.googleapis.com]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] KILL [securepubads.g.doubleclick.net]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [pub.doubleverify.com]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [sourcepointcmp.bloomberg.com]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:37] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [sourcepointcmp.bloomberg.com]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [sourcepointcmp.bloomberg.com]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [vi.ml314.com]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [sourcepointcmp.bloomberg.com]
+[20:41:38] CONN [pub.doubleverify.com]
+[20:41:38] CONN [pub.doubleverify.com]
+[20:41:38] CONN [sourcepointcmp.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] KILL [securepubads.g.doubleclick.net]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [cdn.lgrckt-in.com]
+[20:41:38] CONN [sourcepointcmp.bloomberg.com]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [location.cm.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [www.googletagmanager.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [pub.doubleverify.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [sourcepointcmp.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [sourcepointcmp.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [sourcepointcmp.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [www.bloomberg.com]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [assets.bwbx.io]
+[20:41:38] CONN [js-agent.newrelic.com]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [login.bloomberg.com]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [www.bloomberg.com]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [personalization.bloomberg.com]
+[20:41:39] CONN [personalization.bloomberg.com]
+[20:41:39] CONN [bam-cell.nr-data.net]
+[20:41:39] CONN [sourcepointcmp.bloomberg.com]
+[20:41:39] CONN [coordinator.cm.bloomberg.com]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [www.bloomberg.com]
+[20:41:39] CONN [sourcepointcmp.bloomberg.com]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [www.bloomberg.com]
+[20:41:39] CONN [www.bloomberg.com]
+[20:41:39] CONN [login.bloomberg.com]
+[20:41:39] CONN [bbgvod-azure-us-east1-zenko.global.ssl.fastly.net]
+[20:41:39] CONN [coordinator.cm.bloomberg.com]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [bbgvod-azure-us-east1-zenko.global.ssl.fastly.net]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [assets.bwbx.io]
+[20:41:39] CONN [featureassets.org]
+[20:41:39] CONN [prodregistryv2.org]
+[20:41:39] CONN [prodregistryv2.org]
+[20:41:39] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:39] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:39] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:39] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:39] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:39] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:39] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:39] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:40] CONN [www.googletagmanager.com]
+[20:41:40] CONN [assets.bwbx.io]
+[20:41:40] CONN [lma.npaw.com]
+[20:41:40] CONN [lma.npaw.com]
+[20:41:40] CONN [js-agent.newrelic.com]
+[20:41:40] CONN [www.bloomberg.com]
+[20:41:40] CONN [bam.nr-data.net]
+[20:41:40] CONN [bam.nr-data.net]
+[20:41:40] CONN [bam.nr-data.net]
+[20:41:40] CONN [bam.nr-data.net]
+[20:41:40] CONN [bam.nr-data.net]
+[20:41:40] CONN [bam.nr-data.net]
+[20:41:40] CONN [sourcepointcmp.bloomberg.com]
+[20:41:40] CONN [sourcepointcmp.bloomberg.com]
+[20:41:40] CONN [assets.bwbx.io]
+[20:41:40] CONN [assets.bwbx.io]
+[20:41:40] CONN [assets.bwbx.io]
+[20:41:40] CONN [sourcepointcmp.bloomberg.com]
+[20:41:40] CONN [sourcepointcmp.bloomberg.com]
+[20:41:40] CONN [sourcepointcmp.bloomberg.com]
+[20:41:41] CONN [www.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [sb.scorecardresearch.com]
+[20:41:41] CONN [d1z2jf7jlzjs58.cloudfront.net]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [sourcepointcmp.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] KILL [region1.google-analytics.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [www.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [sourcepointcmp.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [sb.scorecardresearch.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [assets.bwbx.io]
+[20:41:41] KILL [pagead2.googlesyndication.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [ads.bloomberg.com]
+[20:41:41] CONN [www.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [cdn.brandmetrics.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [sb.scorecardresearch.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [assets.bwbx.io]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [assets.bwbx.io]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [cdn.parsely.com]
+[20:41:41] CONN [assets.bwbx.io]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [collector-px8fcgygk4.px-cloud.net]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [tzm.px-cloud.net]
+[20:41:41] CONN [login.bloomberg.com]
+[20:41:41] CONN [assets.bwbx.io]
+[20:41:41] CONN [assets.bwbx.io]
+[20:41:41] CONN [assets.bwbx.io]
+[20:41:41] CONN [assets.bwbx.io]
+[20:41:41] CONN [assets.bwbx.io]
+[20:41:41] CONN [assets.bwbx.io]
+[20:41:41] CONN [assets.bwbx.io]
+[20:41:41] CONN [assets.bwbx.io]
+[20:41:41] CONN [assets.bwbx.io]
+[20:41:41] CONN [assets.bwbx.io]
+[20:41:41] CONN [eventrecorder.cm.bloomberg.com]
+[20:41:41] CONN [login.bloomberg.com]
+[20:41:41] CONN [bam.nr-data.net]
+[20:41:41] CONN [www.bloomberg.com]
+[20:41:41] CONN [prodregistryv2.org]
+[20:41:41] CONN [www.bloomberg.com]
+[20:41:42] CONN [collector-px8fcgygk4.px-cloud.net]
+[20:41:42] KILL [region1.google-analytics.com]
+[20:41:43] KILL [region1.google-analytics.com]
+[20:41:43] CONN [bam.nr-data.net]
+[20:41:43] CONN [bam.nr-data.net]
+[20:41:43] CONN [bam.nr-data.net]
+[20:41:43] CONN [bam.nr-data.net]
+[20:41:43] CONN [bam.nr-data.net]
+[20:41:43] CONN [assets.bwbx.io]
+[20:41:43] CONN [assets.bwbx.io]
+[20:41:43] CONN [assets.bwbx.io]
+[20:41:43] CONN [assets.bwbx.io]
+[20:41:43] CONN [assets.bwbx.io]
+[20:41:43] CONN [assets.bwbx.io]
