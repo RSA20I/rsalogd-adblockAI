@@ -1,6 +1,4 @@
 [20:42:03] CONN [pay.google.com]
-[20:42:03] CONN [pay.google.com]
-[20:42:03] CONN [pay.google.com]
 [20:42:03] CONN [personalization.bloomberg.com]
 [20:42:03] CONN [personalization.bloomberg.com]
 [20:42:03] CONN [pay.google.com]
@@ -998,3 +996,5 @@
 [20:46:44] CONN [api.viafoura.co]
 [20:46:44] CONN [beacons.gcp.gvt2.com]
 [20:46:46] CONN [api.viafoura.co]
+[20:46:50] CONN [api.viafoura.co]
+[20:46:54] CONN [api.viafoura.co]
